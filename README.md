@@ -1,16 +1,36 @@
-## Hi there 👋
+👋 Hi there, I'm Anteneh Shimelis Regassa
 
-<!--
-**antye777/antye777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner student passionate about web development, JavaScript, and data science. As I start my journey in the tech world, I'm eager to learn, build, and grow my skills in creating impactful digital solutions.
 
-Here are some ideas to get you started:
+🌱 What I’m Learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The fundamentals of JavaScript
+
+Building websites with HTML, CSS, and responsive design principles
+
+Exploring frameworks like React and Next.js
+
+Introduction to backend development with Node.js
+
+
+🎯 Goals:
+
+Build personal projects to enhance my understanding of programming.
+
+Learn the art of solving real-world problems through code.
+
+Collaborate on beginner-friendly open-source projects.
+
+
+✨ About Me:
+
+I’m inspired by the power of technology to drive innovation and solve global challenges.
+
+I enjoy diving into new concepts and learning step by step.
+
+Outside of coding, I love discovering creative ways to approach challenges and share ideas.
+
+
+🚀 Let’s Connect:
+
+I’m looking forward to connecting with developers, sharing knowledge, and growing together.
